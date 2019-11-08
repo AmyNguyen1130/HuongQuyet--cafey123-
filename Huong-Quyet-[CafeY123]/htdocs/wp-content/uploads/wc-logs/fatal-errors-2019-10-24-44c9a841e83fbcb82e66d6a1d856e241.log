@@ -1,0 +1,22 @@
+2019-10-24T02:09:38+00:00 CRITICAL Maximum execution time of 20 seconds exceeded in /home/vol7_1/epizy.com/epiz_24635019/htdocs/wp-content/plugins/wp-file-manager/lib/php/elFinderVolumeLocalFileSystem.class.php on line 773
+
+2019-10-24T02:11:06+00:00 CRITICAL Maximum execution time of 20 seconds exceeded in /home/vol7_1/epizy.com/epiz_24635019/htdocs/wp-content/plugins/wp-file-manager/lib/php/elFinderVolumeLocalFileSystem.class.php on line 645
+
+2019-10-24T02:16:44+00:00 CRITICAL Maximum execution time of 20 seconds exceeded in /home/vol7_1/epizy.com/epiz_24635019/htdocs/wp-content/plugins/wp-file-manager/lib/php/elFinderVolumeLocalFileSystem.class.php on line 783
+
+2019-10-24T02:17:21+00:00 CRITICAL Maximum execution time of 20 seconds exceeded in /home/vol7_1/epizy.com/epiz_24635019/htdocs/wp-content/plugins/wp-file-manager/lib/php/elFinderVolumeLocalFileSystem.class.php on line 834
+
+2019-10-24T02:18:59+00:00 CRITICAL Maximum execution time of 20 seconds exceeded in /home/vol7_1/epizy.com/epiz_24635019/htdocs/wp-content/plugins/wp-file-manager/lib/php/elFinderVolumeDriver.class.php on line 4637
+
+2019-10-24T02:21:40+00:00 CRITICAL Maximum execution time of 20 seconds exceeded in /home/vol7_1/epizy.com/epiz_24635019/htdocs/wp-content/plugins/wp-file-manager/lib/php/elFinderVolumeDriver.class.php on line 4637
+
+2019-10-24T10:43:59+00:00 CRITICAL Maximum execution time of 20 seconds exceeded in /home/vol7_1/epizy.com/epiz_24635019/htdocs/wp-content/plugins/duplicator/classes/package/class.pack.archive.php on line 492
+
+2019-10-24T10:45:47+00:00 CRITICAL Maximum execution time of 20 seconds exceeded in /home/vol7_1/epizy.com/epiz_24635019/htdocs/wp-content/plugins/duplicator/classes/package/class.pack.archive.php on line 492
+
+2019-10-24T10:47:43+00:00 CRITICAL Maximum execution time of 20 seconds exceeded in /home/vol7_1/epizy.com/epiz_24635019/htdocs/wp-content/plugins/duplicator/classes/package/class.pack.archive.php on line 492
+
+2019-10-24T10:59:29+00:00 CRITICAL Maximum execution time of 20 seconds exceeded in /home/vol7_1/epizy.com/epiz_24635019/htdocs/wp-content/plugins/duplicator/classes/package/class.pack.archive.php on line 486
+
+2019-10-24T12:45:11+00:00 CRITICAL syntax error, unexpected '}' in /home/vol7_1/epizy.com/epiz_24635019/htdocs/wp-content/themes/online-shop/functions.php on line 22
+

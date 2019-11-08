@@ -1,0 +1,428 @@
+{
+    "RPT": {
+        "ScanTime": "0.01 sec.",
+        "ScanFile": "huong_quyet_cafey123_5b0d0199c0f745869228_20191105105935_scan.json",
+        "Warnings": 1,
+        "Success": 5
+    },
+    "SRV": {
+        "PHP": {
+            "websrv": true,
+            "openbase": false,
+            "maxtime": false,
+            "mysqli": true,
+            "version": true,
+            "ALL": "Warn"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "0B",
+        "DirCount": "0",
+        "FileCount": "0",
+        "FullCount": "0",
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/ai1wm-backups",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/backups-dup-pro",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/backupwordpress",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/cache",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/content\/cache",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/contents\/cache",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/infinitewp\/backups",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/managewp\/backups",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/old-cache",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/updraft",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/snapshots",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/sucuri",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/wp-clone",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/wfcache",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/wishlist-backup",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            "error_log",
+            "error.log",
+            "debug_log",
+            "ws_ftp.log",
+            "dbcache",
+            "pgcache",
+            "objectcache",
+            ".DS_Store",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/.htaccess",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/web.config",
+            "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-config.php"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "Core": [
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-snapshots",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/backups-dup-pro",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/ai1wm-backups",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/backupwordpress",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/content\/cache",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/contents\/cache",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/infinitewp\/backups",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/managewp\/backups",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/old-cache",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/updraft",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/wishlist-backup",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/wfcache",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/cache",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/aiowps_backups",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/backupbuddy_temp",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/backupbuddy_backups",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/ithemes-security\/backups",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/mainwp\/backup",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/pb_backupbuddy",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/snapshots",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/sucuri",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/wp-clone",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/wp_all_backup",
+                    "\/home\/vol7_1\/epizy.com\/epiz_24635019\/htdocs\/wp-content\/uploads\/wpbackitup_backups"
+                ],
+                "Global": [],
+                "Instance": []
+            },
+            "Files": {
+                "Size": [],
+                "Warning": [],
+                "Unreadable": [],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "UDirCount": 0,
+            "UFileCount": 0,
+            "UExtCount": 0,
+            "TreeSize": [],
+            "TreeWarning": []
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "UnreadableItems": "Good",
+            "AddonSites": "Good"
+        },
+        "Dirs": [],
+        "Files": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "DB_Case": "Good",
+            "DB_Rows": "Good",
+            "DB_Size": "Good",
+            "TBL_Case": "Good",
+            "TBL_Rows": "Good",
+            "TBL_Size": "Good"
+        },
+        "Size": "3.35MB",
+        "Rows": "6,654",
+        "TableCount": 43,
+        "TableList": {
+            "wpod_commentmeta": {
+                "Case": 0,
+                "Rows": "62",
+                "Size": "16.82KB",
+                "USize": 17220
+            },
+            "wpod_comments": {
+                "Case": 0,
+                "Rows": "429",
+                "Size": "80.39KB",
+                "USize": 82324
+            },
+            "wpod_duplicator_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_failed_jobs": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_mailchimp_carts": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "2KB",
+                "USize": 2048
+            },
+            "wpod_options": {
+                "Case": 0,
+                "Rows": "420",
+                "Size": "1.32MB",
+                "USize": 1383388
+            },
+            "wpod_postmeta": {
+                "Case": 0,
+                "Rows": "4,346",
+                "Size": "1.07MB",
+                "USize": 1116744
+            },
+            "wpod_posts": {
+                "Case": 0,
+                "Rows": "648",
+                "Size": "691.38KB",
+                "USize": 707968
+            },
+            "wpod_queue": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_term_relationships": {
+                "Case": 0,
+                "Rows": "321",
+                "Size": "21.58KB",
+                "USize": 22101
+            },
+            "wpod_term_taxonomy": {
+                "Case": 0,
+                "Rows": "44",
+                "Size": "8.55KB",
+                "USize": 8752
+            },
+            "wpod_termmeta": {
+                "Case": 0,
+                "Rows": "42",
+                "Size": "18.13KB",
+                "USize": 18568
+            },
+            "wpod_terms": {
+                "Case": 0,
+                "Rows": "44",
+                "Size": "15.11KB",
+                "USize": 15468
+            },
+            "wpod_usermeta": {
+                "Case": 0,
+                "Rows": "45",
+                "Size": "16.3KB",
+                "USize": 16696
+            },
+            "wpod_users": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "7.1KB",
+                "USize": 7268
+            },
+            "wpod_wc_admin_note_actions": {
+                "Case": 0,
+                "Rows": "8",
+                "Size": "3.81KB",
+                "USize": 3904
+            },
+            "wpod_wc_admin_notes": {
+                "Case": 0,
+                "Rows": "7",
+                "Size": "3.95KB",
+                "USize": 4048
+            },
+            "wpod_wc_category_lookup": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "2.02KB",
+                "USize": 2065
+            },
+            "wpod_wc_customer_lookup": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "6.15KB",
+                "USize": 6300
+            },
+            "wpod_wc_download_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_wc_order_coupon_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_wc_order_product_lookup": {
+                "Case": 0,
+                "Rows": "16",
+                "Size": "7.53KB",
+                "USize": 7712
+            },
+            "wpod_wc_order_stats": {
+                "Case": 0,
+                "Rows": "11",
+                "Size": "11.75KB",
+                "USize": 12028
+            },
+            "wpod_wc_order_tax_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_wc_product_meta_lookup": {
+                "Case": 0,
+                "Rows": "26",
+                "Size": "11.16KB",
+                "USize": 11424
+            },
+            "wpod_wc_tax_rate_classes": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "9.07KB",
+                "USize": 9288
+            },
+            "wpod_wc_webhooks": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_woocommerce_api_keys": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "2KB",
+                "USize": 2048
+            },
+            "wpod_woocommerce_attribute_taxonomies": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_woocommerce_downloadable_product_permissions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_woocommerce_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_woocommerce_order_itemmeta": {
+                "Case": 0,
+                "Rows": "156",
+                "Size": "15.16KB",
+                "USize": 15524
+            },
+            "wpod_woocommerce_order_items": {
+                "Case": 0,
+                "Rows": "18",
+                "Size": "4.34KB",
+                "USize": 4448
+            },
+            "wpod_woocommerce_payment_tokenmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_woocommerce_payment_tokens": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_woocommerce_sessions": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "13.73KB",
+                "USize": 14056
+            },
+            "wpod_woocommerce_shipping_zone_locations": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "4.03KB",
+                "USize": 4128
+            },
+            "wpod_woocommerce_shipping_zone_methods": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "2.07KB",
+                "USize": 2120
+            },
+            "wpod_woocommerce_shipping_zones": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "2.02KB",
+                "USize": 2068
+            },
+            "wpod_woocommerce_tax_rate_locations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_woocommerce_tax_rates": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wpod_wpfm_backup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            }
+        },
+        "RawSize": 3516090
+    },
+    "LL": {
+        "TotalSize": "3.35MB",
+        "Status": {
+            "TotalSize": "Good"
+        }
+    }
+}
